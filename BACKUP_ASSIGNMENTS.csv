@@ -1,0 +1,163 @@
+section_name,subject_name,teacher_name
+9th-A,english,anupama ahuja
+9th-A,hindi,komal sharma
+9th-A,mathematics,rekha vij
+9th-A,physics,prabhat sharma
+9th-A,biology,yukta mehta
+9th-A,chemistry,meenakshi munjal
+9th-A,punjabi,jasbir kaur
+9th-A,geography,mamta kaushal
+9th-A,history,nidhi sood
+9th-A,civics,nidhi sood
+9th-A,life skills,manasi
+9th-A,art education (visual and performing arts),rinky sharma
+9th-A,library,radhika sharma
+9th-A,ai,amit gupta
+9th-B,english,anupama ahuja
+9th-B,hindi,seema dhammi
+9th-B,mathematics,rekha vij
+9th-B,physics,prabhat sharma
+9th-B,biology,yukta mehta
+9th-B,chemistry,meenakshi munjal
+9th-B,punjabi,jasbir kaur
+9th-B,geography,mamta kaushal
+9th-B,history,nidhi sood
+9th-B,civics,nidhi sood
+9th-B,life skills,manasi
+9th-B,art education (visual and performing arts),rinky sharma
+9th-B,library,radhika sharma
+9th-B,it,gazalb garg
+9th-C,english,aarti.g sharma
+9th-C,sanskrit,hitender vasisht
+9th-C,mathematics,prarit rattan
+9th-C,physics,asha vashishtha
+9th-C,biology,yukta mehta
+9th-C,chemistry,meenakshi munjal
+9th-C,punjabi,jasbir kaur
+9th-C,geography,mamta kaushal
+9th-C,history,nidhi sood
+9th-C,civics,nidhi sood
+9th-C,life skills,manasi
+9th-C,art education (visual and performing arts),rinky sharma
+9th-C,library,radhika sharma
+9th-C,pat,pallavi
+9th-D,english,aarti.g sharma
+9th-D,hindi,komal sharma
+9th-D,mathematics,prarit rattan
+9th-D,physics,asha vashishtha
+9th-D,biology,yukta mehta
+9th-D,chemistry,meenakshi munjal
+9th-D,punjabi,jasbir kaur
+9th-D,geography,mamta kaushal
+9th-D,history,nidhi sood
+9th-D,civics,nidhi sood
+9th-D,life skills,manasi
+9th-D,art education (visual and performing arts),rinky sharma
+9th-D,library,radhika sharma
+9th-D,it,dummy teacher
+10th-A,life skills,manasi
+10th-A,geography,mamta kaushal
+10th-A,pol science,nidhi sood
+10th-A,eco,meenu gupta
+10th-A,art education (visual and performing arts),rinky sharma
+10th-A,it,gazalb garg
+10th-A,games,parveen kumar vasundhara
+10th-A,music & dance,rachna vyas
+10th-A,history,nidhi sood
+10th-A,library,radhika sharma
+10th-A,chemistry,meenakshi munjal
+10th-A,biology,chitrakshi goel
+10th-A,physics,prabhat sharma
+10th-A,english,anupama ahuja
+10th-A,hindi,seema dhammi
+10th-A,maths,ashima grover
+10th-B,life skills,manasi
+10th-B,geography,mamta kaushal
+10th-B,pol science,nidhi sood
+10th-B,eco,meenu gupta
+10th-B,art education (visual and performing arts),rinky sharma
+10th-B,games,parveen kumar vasundhara
+10th-B,music & dance,rachna vyas
+10th-B,history,nidhi sood
+10th-B,library,radhika sharma
+10th-B,chemistry,meenakshi munjal
+10th-B,biology,chitrakshi goel
+10th-B,physics,prabhat sharma
+10th-B,english,suman sharma
+10th-B,hindi,komal sharma
+10th-B,mathematics,prabhat sharma
+10th-B,ai,amit gupta
+10th-C,physics,asha vashishtha
+10th-C,english,anupama ahuja
+10th-C,mathematics,ashima grover
+10th-C,sanskrit,hitender vasisht
+10th-C,life skills,manasi
+10th-C,geography,mamta kaushal
+10th-C,pol science,nidhi sood
+10th-C,eco,meenu gupta
+10th-C,pat,pallavi
+10th-C,art education (visual and performing arts),rinky sharma
+10th-C,games,parveen kumar vasundhara
+10th-C,music & dance,rachna vyas
+10th-C,history,nidhi sood
+10th-C,library,radhika sharma
+10th-C,chemistry,meenakshi munjal
+10th-C,biology,chitrakshi goel
+10th-D,physics,prabhat sharma
+10th-D,english,anupama ahuja
+10th-D,hindi,seema dhammi
+10th-D,mathematics,prabhat sharma
+10th-D,life skills,manasi
+10th-D,geography,mamta kaushal
+10th-D,pol science,nidhi sood
+10th-D,eco,meenu gupta
+10th-D,art education (visual and performing arts),rinky sharma
+10th-D,it,dummy teacher
+10th-D,games,parveen kumar vasundhara
+10th-D,music & dance,rachna vyas
+10th-D,history,nidhi sood
+10th-D,library,radhika sharma
+10th-D,chemistry,meenakshi munjal
+10th-D,biology,chitrakshi goel
+11 Sci,English,Suman Sharma
+11 Sci,Physics,Anjali Jaiswal
+11 Sci,Chemistry,Meenakshi Munjal
+11 Sci (Math Group),Mathematics,Ashima Grover
+11 Sci (Bio Group),Biology,Chitrakshi Goel
+11 Sci (CS Group),cs/ip,Arushi Sharma
+11 Sci (PE Group),pe,parveen kumar vasundhara
+11 Com,pol science,Neeru Kansal
+11 Com,English,Suman Sharma (2)
+11 Com,Accountancy,Veena Rawat Bist
+11 Com,Business Studies,Veena Rawat Bist (2)
+11 Com,eco,Meenu Gupta
+11 Com,cs/ip,Arushi Sharma (2)
+11 Hum,pol science,Neeru Kansal (2)
+11 Hum,History,Suman Sharma (3)
+11 Hum,English,Suman Sharma (4)
+11 Hum,Accountancy,Veena Rawat Bist (3)
+11 Hum,Business Studies,Veena Rawat Bist (4)
+11 Hum,eco,Meenu Gupta (2)
+11 Hum,Psychology,Manasi
+11 Hum,pe,parveen kumar (Hum)
+12 Sci,English,Suman Sharma (5)
+12 Sci,Physics,Anjali Jaiswal (2)
+12 Sci,Chemistry,Meenakshi Munjal (2)
+12 Sci (Math Group),Mathematics,Ashima Grover (2)
+12 Sci (Bio Group),Biology,Chitrakshi Goel (2)
+12 Sci (CS Group),cs/ip,Arushi Sharma (3)
+12 Sci (PE Group),pe,parveen kumar (12 Sci)
+12 Com,pol science,Neeru Kansal (3)
+12 Com,English,Suman Sharma (6)
+12 Com,Accountancy,Veena Rawat Bist (5)
+12 Com,Business Studies,Veena Rawat Bist (6)
+12 Com,eco,Meenu Gupta (3)
+12 Com,cs/ip,Arushi Sharma (4)
+12 Hum,pol science,Neeru Kansal (4)
+12 Hum,History,Suman Sharma (7)
+12 Hum,English,Suman Sharma (8)
+12 Hum,Accountancy,Veena Rawat Bist (7)
+12 Hum,Business Studies,Veena Rawat Bist (8)
+12 Hum,eco,Meenu Gupta (4)
+12 Hum,Psychology,Manasi (2)
+12 Hum,pe,parveen kumar (12 Hum)

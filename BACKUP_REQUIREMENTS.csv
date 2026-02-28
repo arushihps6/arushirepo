@@ -1,0 +1,155 @@
+section_name,subject_name,periods_per_week
+9th-A,english,6
+9th-A,hindi,6
+9th-A,mathematics,7
+9th-A,physics,3
+9th-A,biology,2
+9th-A,chemistry,2
+9th-A,punjabi,2
+9th-A,geography,2
+9th-A,history,2
+9th-A,civics,2
+9th-A,life skills,1
+9th-A,art education (visual and performing arts),1
+9th-A,library,1
+9th-A,ai,3
+9th-B,english,6
+9th-B,hindi,6
+9th-B,mathematics,7
+9th-B,physics,3
+9th-B,biology,2
+9th-B,chemistry,2
+9th-B,punjabi,2
+9th-B,geography,2
+9th-B,history,2
+9th-B,civics,2
+9th-B,life skills,1
+9th-B,art education (visual and performing arts),1
+9th-B,library,1
+9th-B,it,3
+9th-C,english,6
+9th-C,sanskrit,6
+9th-C,mathematics,7
+9th-C,physics,3
+9th-C,biology,2
+9th-C,chemistry,2
+9th-C,punjabi,2
+9th-C,geography,2
+9th-C,history,2
+9th-C,civics,2
+9th-C,life skills,1
+9th-C,art education (visual and performing arts),1
+9th-C,library,1
+9th-C,pat,3
+9th-D,english,6
+9th-D,hindi,6
+9th-D,mathematics,7
+9th-D,physics,3
+9th-D,biology,2
+9th-D,chemistry,2
+9th-D,punjabi,2
+9th-D,geography,2
+9th-D,history,2
+9th-D,civics,2
+9th-D,life skills,1
+9th-D,art education (visual and performing arts),1
+9th-D,library,1
+9th-D,it,3
+10th-A,life skills,1
+10th-A,geography,2
+10th-A,pol science,1
+10th-A,eco,1
+10th-A,art education (visual and performing arts),1
+10th-A,it,3
+10th-A,games,1
+10th-A,music & dance,1
+10th-A,history,2
+10th-A,library,1
+10th-A,chemistry,3
+10th-A,biology,3
+10th-A,physics,3
+10th-A,english,5
+10th-A,hindi,6
+10th-A,maths,6
+10th-B,life skills,1
+10th-B,geography,2
+10th-B,pol science,1
+10th-B,eco,1
+10th-B,art education (visual and performing arts),1
+10th-B,games,1
+10th-B,music & dance,1
+10th-B,history,2
+10th-B,library,1
+10th-B,chemistry,3
+10th-B,biology,3
+10th-B,physics,3
+10th-B,english,5
+10th-B,hindi,6
+10th-B,mathematics,6
+10th-B,ai,3
+10th-C,physics,3
+10th-C,english,5
+10th-C,mathematics,6
+10th-C,sanskrit,5
+10th-C,life skills,1
+10th-C,geography,2
+10th-C,pol science,2
+10th-C,eco,1
+10th-C,pat,3
+10th-C,art education (visual and performing arts),1
+10th-C,games,1
+10th-C,music & dance,1
+10th-C,history,2
+10th-C,library,1
+10th-C,chemistry,3
+10th-C,biology,3
+10th-D,physics,3
+10th-D,english,5
+10th-D,hindi,6
+10th-D,mathematics,6
+10th-D,life skills,1
+10th-D,geography,2
+10th-D,pol science,2
+10th-D,eco,1
+10th-D,art education (visual and performing arts),1
+10th-D,it,3
+10th-D,games,1
+10th-D,music & dance,1
+10th-D,history,2
+10th-D,library,1
+10th-D,chemistry,2
+10th-D,biology,3
+11 Com,Accountancy,6
+11 Com,Business Studies,6
+11 Com,cs/ip,6
+11 Com,eco,6
+11 Com,English,6
+11 Hum,English,6
+11 Hum,History,6
+11 Hum,pol science,6
+11 Hum,pe,6
+11 Hum,Psychology,6
+11 Sci,Chemistry,6
+11 Sci,English,6
+11 Sci,Physics,6
+11 Sci (Bio Group),Biology,6
+11 Sci (CS Group),cs/ip,6
+11 Sci (Math Group),Mathematics,6
+11 Sci (PE Group),pe,6
+12 Com,Accountancy,6
+12 Com,Business Studies,6
+12 Com,cs/ip,6
+12 Com,eco,6
+12 Com,English,6
+12 Hum,English,6
+12 Hum,History,6
+12 Hum,pol science,6
+12 Hum,pe,6
+12 Hum,Psychology,6
+12 Sci,Chemistry,6
+12 Sci,English,6
+12 Sci,Physics,6
+12 Sci (Bio Group),Biology,6
+12 Sci (CS Group),cs/ip,6
+12 Sci (Math Group),Mathematics,6
+12 Sci (PE Group),pe,6
